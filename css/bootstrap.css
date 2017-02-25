@@ -70,6 +70,7 @@ dfn {
 h1 {
   font-size: 2em;
   margin: 0.67em 0;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black
 }
 mark {
   background: #ff0;
