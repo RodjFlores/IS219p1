@@ -5689,6 +5689,7 @@ button.list-group-item-danger.active:focus {
 }
 .panel-default {
   border-color: #282828;
+  border-width: 3px;
 }
 .panel-default > .panel-heading {
   color: #888888;
@@ -5707,6 +5708,7 @@ button.list-group-item-danger.active:focus {
 }
 .panel-primary {
   border-color: #2a9fd6;
+  border-width: 3px;
 }
 .panel-primary > .panel-heading {
   color: #ffffff;
@@ -5725,6 +5727,7 @@ button.list-group-item-danger.active:focus {
 }
 .panel-success {
   border-color: #809a00;
+  border-width: 3px;
 }
 .panel-success > .panel-heading {
   color: #ffffff;
@@ -5743,6 +5746,7 @@ button.list-group-item-danger.active:focus {
 }
 .panel-info {
   border-color: #6e2caf;
+  border-width: 3px;
 }
 .panel-info > .panel-heading {
   color: #ffffff;
